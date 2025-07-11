@@ -6,9 +6,8 @@
 
 <img src="./message.gif" width="300px" align="right">
 
-<br>
-<br>
-<br>
+
+
 - 🙋‍♂️ My self Achintya Tiwari
 - 🌎 I'm from India
 - 👨‍🎓 I'm recent CSE grad 
@@ -49,6 +48,6 @@
   <code><img width="32" src="/leetcode.svg" /></code>
 </a>
 <a href="https://www.codechef.com/users/achintyatiwari" target="_blank">
-  <code><img width="32" src="/codechef.svg" /></code>
+  <code><img src="/codechef.svg" width="48" height="48" /></code>
 </a>
 </p>
