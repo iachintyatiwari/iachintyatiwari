@@ -17,7 +17,8 @@
 - ✨ Always exploring new things 
 - 🤷‍♂️ Currnetly must be fighting with some AI to fix a BUG
 
-
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -39,7 +40,7 @@
   <code><img width="32" src="/x.svg" /></code>
 </a>
 <a href="https://www.linkedin.com/in/iachintyatiwari/" target="_blank">
-  <code><img width="32" src="/linkdin.svg" /></code>
+  <code><img width="32" src="/linkdi.svg" /></code>
 </a>
 <a href="https://www.hackerrank.com/profile/iachintyatiwari" target="_blank">
   <code><img width="32" src="/hackerrank.svg" /></code>
