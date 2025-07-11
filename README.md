@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About me <p align="right"> 
 
-<img src="./message.gif" width="300px" height ="350px" align="right">
+<img src="./message.gif" width="300px" align="right">
 
 - 🙋‍♂️ My self Achintya Tiwari
 - 🌎 I'm from India
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,eclipse,express,firebase,git,mongodb,mysql&theme=light,nextjs,nodejs,npm,postgres,postman,sass,supabase,ts,vscode," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,eclipse,express,firebase,git,mongodb,mysql&theme=light,nextjs,nodejs,npm,postgres,postman,sass,java,supabase,ts,vscode&perline=5" />
   </a>
 </p>
 
@@ -37,18 +37,18 @@
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://x.com/iachintyatiwari" target="_blank">
-  <code><img width="32" src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" /></code>
+  <code><img width="32" src="/x.svg" /></code>
 </a>
 <a href="https://www.linkedin.com/in/iachintyatiwari/" target="_blank">
-  <code><img width="32" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></code>
+  <code><img width="32" src="/linkdin.svg" /></code>
 </a>
 <a href="https://www.hackerrank.com/profile/iachintyatiwari" target="_blank">
-  <code><img width="32" src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" /></code>
+  <code><img width="32" src="/hackerrank.svg" /></code>
 </a>
 <a href="https://leetcode.com/u/iachintyatiwari/" target="_blank">
-  <code><img width="32" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" /></code>
+  <code><img width="32" src="/leetcode.svg" /></code>
 </a>
 <a href="https://www.codechef.com/users/achintyatiwari" target="_blank">
-  <code><img width="32" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" /></code>
+  <code><img width="32" src="/codechef.svg" /></code>
 </a>
 </p>
