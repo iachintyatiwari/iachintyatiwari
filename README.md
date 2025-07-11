@@ -48,6 +48,6 @@
   <code><img width="32" src="/leetcode.svg" /></code>
 </a>
 <a href="https://www.codechef.com/users/achintyatiwari" target="_blank">
-  <code><img src="/codechef.svg" width="48" height="48" /></code>
+  <code><img src="https://github.com/iachintyatiwari/iachintyatiwari/blob/main/codechef.svg"  /></code>
 </a>
 </p>
