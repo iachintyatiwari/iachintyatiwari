@@ -35,19 +35,19 @@
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://x.com/iachintyatiwari" target="_blank">
+  <a href="https://x.com/iachintyatiwari">
   <code><img width="32" src="/x.svg" /></code>
 </a>
-<a href="https://www.linkedin.com/in/iachintyatiwari/" target="_blank">
+<a href="https://www.linkedin.com/in/iachintyatiwari/" >
   <code><img width="32" src="/linkdi.svg" /></code>
 </a>
-<a href="https://www.hackerrank.com/profile/iachintyatiwari" target="_blank">
+<a href="https://www.hackerrank.com/profile/iachintyatiwari">
   <code><img width="32" src="/hackerrank.svg" /></code>
 </a>
-<a href="https://leetcode.com/u/iachintyatiwari/" target="_blank">
+<a href="https://leetcode.com/u/iachintyatiwari/">
   <code><img width="32" src="/leetcode.svg" /></code>
 </a>
-<a href="https://www.codechef.com/users/achintyatiwari" target="_blank">
-  <code><img src="https://github.com/iachintyatiwari/iachintyatiwari/blob/main/codechef.svg"  /></code>
+<a href="https://www.codechef.com/users/achintyatiwari">
+  <code><img width="32" src="/codechef.svg"  /></code>
 </a>
 </p>
