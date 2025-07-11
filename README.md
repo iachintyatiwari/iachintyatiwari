@@ -39,7 +39,7 @@
   <code><img width="32" src="/x.svg" /></code>
 </a>
 <a href="https://www.linkedin.com/in/iachintyatiwari/" >
-  <code><img width="32" src="/linkdi.svg" /></code>
+  <code><img width="32" src="/linkdin.svg" /></code>
 </a>
 <a href="https://www.hackerrank.com/profile/iachintyatiwari">
   <code><img width="32" src="/hackerrank.svg" /></code>
