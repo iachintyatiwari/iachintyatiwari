@@ -6,6 +6,9 @@
 
 <img src="./message.gif" width="300px" align="right">
 
+<br>
+<br>
+<br>
 - 🙋‍♂️ My self Achintya Tiwari
 - 🌎 I'm from India
 - 👨‍🎓 I'm recent CSE grad 
@@ -14,8 +17,7 @@
 - ✨ Always exploring new things 
 - 🤷‍♂️ Currnetly must be fighting with some AI to fix a BUG
 
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -24,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,eclipse,express,firebase,git,mongodb,mysql,nextjs,nodejs,npm,postgres,postman,sass,java,supabase,ts,vscode&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,eclipse,express,firebase,git,mongodb,mysql,nextjs,nodejs,npm,postgres,postman,sass,java,supabase,ts,vscode&perline=7"/>
   </a>
 </p>
 
