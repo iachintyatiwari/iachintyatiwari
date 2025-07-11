@@ -1,8 +1,5 @@
 <h1 align="center"> 
 <img src="./hello.svg" width="600px"></h1>
-<h1 align="center"><h1 align="center"> 
-<img src="./banner.png" width="600px"></h1>
-
 
 
 ## 👨🏻‍💻 About me <p align="right"> 
@@ -27,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,eclipse,express,firebase,git,mongodb,mysql&theme=light,nextjs,nodejs,npm,postgres,postman,sass,java,supabase,ts,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,eclipse,express,firebase,git,mongodb,mysql&theme=light,nextjs,nodejs,npm,postgres,postman,sass,java,supabase,ts,vscode" />
   </a>
 </p>
 
