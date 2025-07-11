@@ -5,9 +5,9 @@
 
 
 
-## 👨🏻‍💻 About me
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=iachintyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="iachintyatiwari" /> </p>
+## 👨🏻‍💻 About me <p align="right"> <img src="https://komarev.com/ghpvc/?username=iachintyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="iachintyatiwari" /> </p>
 <br>
+
 
 <img src="./message.gif" width="300px" align="right">
 
