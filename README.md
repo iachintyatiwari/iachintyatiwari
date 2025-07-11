@@ -1,31 +1,79 @@
-<h1 align="center">Hi 👋, I'm Achintya Tiwari</h1>
-<h3 align="center">A passionate Computer Science student from India</h3>
+<h1 align="center"> 
+<img src="./hello.svg" width="600px"></h1>
+<h1 align="center"><h1 align="center"> 
+<img src="./banner.png" width="600px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iachintyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="iachintyatiwari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iachintyatiwari" alt="iachintyatiwari" /></a> </p>
 
-- 🔭 I’m currently working on [Splitwise Application](AA)
+## 👨🏻‍💻 About me
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iachintyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="iachintyatiwari" /> </p>
+<br>
 
-- 🌱 I’m currently learning **SQL**
+<img src="./message.gif" width="300px" align="right">
 
-- 📫 How to reach me **achintyatiwari0@gmail.com**
+- 🙋‍♂️ My self Achintya Tiwari
+- 🌎 I'm from India
+- 👨‍🎓 I'm recent CSE grad 
+- 👨🏻‍💻 Love programming and Binge watching
+- 🧑‍💻 Passionate to build SAAS
+- ✨ Always exploring new things 
+- 🤷‍♂️ Currnetly must be fighting with some AI to fix a BUG
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vOHjScUr103e3-CYrMzNmvWtaBX7Ml7L/view?usp=drive_link](https://drive.google.com/file/d/1vOHjScUr103e3-CYrMzNmvWtaBX7Ml7L/view?usp=drive_link)
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iachintyatiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iachintyatiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/iachintyatiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iachintyatiwari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/achintyatiwari0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="achintyatiwari0" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/achintyatiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="achintyatiwari" height="30" width="40" /></a>
+## 💻 Tech stack
+
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code></td>
+		</tr>
+	</table>
+</div>
+
+---
+
+<p align="center" > 
+  <i>Thanks for passing by</i><br><br>
+  <i>Feel free to connect with me</i><br><br>
+  <a href="https://x.com/iachintyatiwari" target="_blank">
+  <code><img width="32" src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" /></code>
+</a>
+<a href="https://www.linkedin.com/in/iachintyatiwari/" target="_blank">
+  <code><img width="32" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></code>
+</a>
+<a href="https://www.hackerrank.com/profile/iachintyatiwari" target="_blank">
+  <code><img width="32" src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" /></code>
+</a>
+<a href="https://leetcode.com/u/iachintyatiwari/" target="_blank">
+  <code><img width="32" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" /></code>
+</a>
+<a href="https://www.codechef.com/users/achintyatiwari" target="_blank">
+  <code><img width="32" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" /></code>
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iachintyatiwari&show_icons=true&locale=en&layout=compact" alt="iachintyatiwari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iachintyatiwari&show_icons=true&locale=en" alt="iachintyatiwari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iachintyatiwari&" alt="iachintyatiwari" /></p>
